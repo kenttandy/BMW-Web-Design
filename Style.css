@@ -1,0 +1,43 @@
+body {
+    font-family: helvetica; /* Use a fallback font */
+    background-color: rgb(29, 27, 30);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 1.5cm;
+}
+h1 {
+    background-color: #b9e9ff; /* Corrected color */
+    font-size: 60px;
+    color: rgb(145, 149, 152);
+    padding: 50px 0;
+}
+h2 {
+    color: rgb(99, 140, 179);
+    font-size: 60px;
+    margin: 20px 10px;
+}
+h3 {
+    color: rgb(99, 140, 179);
+    font-size: 40px;
+    margin: 100px 10px;
+}
+p {
+    font-family: helvetica;
+    background-color: rgb(29, 27, 30);
+    padding: 5px 0;
+}
+
+ul {
+	color: rgb(255, 255, 255);
+	text-align: left;
+	font-size: 25px;
+}
+img {
+    width: 1000px;
+    height: auto;
+}
+.hero{
+    background-color: #b9e9ff; /* Corrected color */
+    font-size: 30px;
+}
